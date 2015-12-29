@@ -1,0 +1,6 @@
+---
+applications:
+- name: simple-nodejs-application
+  command: node app.js
+  memory: 128M
+  instances: 1
