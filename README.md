@@ -7,6 +7,7 @@ A collection of applications used for testing the Node.js buildpack
 | Name | Description
 | ---- | -----------
 | `simple-nodejs-application` | A simple Node.js application
+| `hostname-info` | Displays IP address and hostname
 
 ### Output Content
 
